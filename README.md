@@ -35,4 +35,6 @@ MEAN Stack 기반 설문조사 웹 어플리케이션
 
 ## 명지대학교 웹프로그래밍 수업
 
+권동섭 교수님
+
 [![dongseop](https://avatars2.githubusercontent.com/u/6858?v=3&s=30) dongseop](https://github.com/dongseop)  
