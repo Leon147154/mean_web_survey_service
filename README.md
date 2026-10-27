@@ -35,6 +35,7 @@ MEAN Stack 기반 설문조사 웹 어플리케이션
 
 ## 명지대학교 웹프로그래밍 수업
 
-명지대학교 권동섭 교수님 웹프로그래밍 수업: 감사합니다, 웹 프로그래밍에 대해 많이 배울 수 있는 수업이었습니다.
+명지대학교 권동섭 교수님 웹프로그래밍 수업: 
+교수님 감사합니다, 웹 프로그래밍에 대해 많이 배울 수 있는 수업이었습니다.
 
 [![dongseop](https://avatars2.githubusercontent.com/u/6858?v=3&s=30) dongseop](https://github.com/dongseop)  
